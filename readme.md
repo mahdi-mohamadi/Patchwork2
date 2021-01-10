@@ -1,6 +1,6 @@
 # Patchwork
 
-![screenshot](https://raw.githubusercontent.com/jlord/patchwork/gh-pages/patchwork-ss.png)
+![screenshot](https://github.com/mahdi-mohamadi/PNU_3991_AR/blob/main/patchwork.PNG)
 
 This repository is a website hosted by [GitHub Pages](http://pages.github.com). It goes along with [Git-it](http://www.github.com/jlord/git-it-electron), a desktop application for learning Git and GitHub.
 
